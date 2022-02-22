@@ -1,8 +1,8 @@
-Run the client:
+Run the app:
 ```sh
 yarn
 expo start
 i
 ```
 
-![alt text](photo/img1.png "")​
+![alt text](photo/img.png "")​
